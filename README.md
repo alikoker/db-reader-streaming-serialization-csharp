@@ -101,3 +101,15 @@ Apache License 2.0.
 
 Muhammet Ali Köker  
 https://alikoker.com.tr/
+
+<!-- alikoker-research-metadata:start -->
+## Research Software Record
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22117281.svg)](https://doi.org/10.5281/zenodo.22117281)
+
+- Archived software release (Zenodo DOI): [10.5281/zenodo.22117281](https://doi.org/10.5281/zenodo.22117281)
+- Source repository: [https://github.com/alikoker/db-reader-streaming-serialization-csharp](https://github.com/alikoker/db-reader-streaming-serialization-csharp)
+- Technical article (English): [https://alikoker.com.tr/en/streaming-json-xml-serialization-from-dbdatareader](https://alikoker.com.tr/en/streaming-json-xml-serialization-from-dbdatareader)
+- Teknik makale (Türkçe): [https://alikoker.com.tr/dbdatareader-akiskan-json-xml-serilestirme](https://alikoker.com.tr/dbdatareader-akiskan-json-xml-serilestirme)
+- ORCID: [0000-0003-3183-8378](https://orcid.org/0000-0003-3183-8378)
+<!-- alikoker-research-metadata:end -->

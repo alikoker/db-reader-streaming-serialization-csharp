@@ -5,6 +5,8 @@ type: software
 authors:
   - family-names: "Köker"
     given-names: "Muhammet Ali"
+    orcid: "https://orcid.org/0000-0003-3183-8378"
 license: Apache-2.0
 url: "https://alikoker.com.tr/en/streaming-json-xml-serialization-from-dbdatareader"
 repository-code: "https://github.com/alikoker/db-reader-streaming-serialization-csharp"
+doi: "10.5281/zenodo.22117281"
