@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the software."
+title: "DbReader Streaming Serialization for C#"
+type: software
+authors:
+  - family-names: "Köker"
+    given-names: "Muhammet Ali"
+license: Apache-2.0
+url: "https://alikoker.com.tr/en/streaming-json-xml-serialization-from-dbdatareader"
+repository-code: "https://github.com/alikoker/db-reader-streaming-serialization-csharp"

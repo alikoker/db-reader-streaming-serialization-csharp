@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "publishable": true,
+  "repositoryName": "db-reader-streaming-serialization-csharp",
+  "description": "Provider-independent C# DbDataReader enumerable and direct streaming JSON/XML serializers with one-time schema caching.",
+  "homepage": "https://alikoker.com.tr/",
+  "relatedArticle": "https://alikoker.com.tr/en/streaming-json-xml-serialization-from-dbdatareader",
+  "topics": [
+    "csharp",
+    "dotnet",
+    "dbdatareader",
+    "json",
+    "xml",
+    "serialization",
+    "database",
+    "performance"
+  ],
+  "license": "Apache-2.0",
+  "defaultBranch": "main",
+  "commitMessage": "Initial public release",
+  "relatedArticleSlug": "streaming-json-xml-serialization-from-dbdatareader",
+  "relatedArticleLanguage": "en",
+  "relatedArticles": {
+    "tr": "https://alikoker.com.tr/dbdatareader-akiskan-json-xml-serilestirme",
+    "en": "https://alikoker.com.tr/en/streaming-json-xml-serialization-from-dbdatareader"
+  }
+}

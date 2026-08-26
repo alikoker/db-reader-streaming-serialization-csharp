@@ -1,0 +1,14 @@
+DbReader Streaming Serialization for C#
+Copyright 2026 Muhammet Ali Köker
+
+This repository publishes a provider-independent evolution of Muhammet Ali Köker's
+historical database-reader enumerable idea for streaming JSON/XML serialization.
+
+The implementation contains no third-party database provider code and has no runtime
+package dependency outside the .NET base class libraries used by the target framework.
+
+Related prior work:
+https://alikoker.com.tr/en/enumerable-csv-processing-algorithm
+
+Author website:
+https://alikoker.com.tr/
